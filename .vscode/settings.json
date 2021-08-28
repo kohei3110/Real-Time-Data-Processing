@@ -1,0 +1,9 @@
+{
+    "azureFunctions.deploySubpath": "target/azure-functions/real-time-data-processing",
+    "azureFunctions.projectLanguage": "Java",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "package (functions)",
+    "azureFunctions.templateFilter": "All",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
